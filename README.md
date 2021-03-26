@@ -36,6 +36,16 @@
     <a href="https://www.jetbrains.com/idea/"> <img alt="Intellij Idea" src="https://github.com/sahilbnsll/sahilbnsll/blob/cf0cff60c4472b080fa41bb5fd1eec190534b558/A/Intellij%20Idea.svg" witdh="58" height="58" />
     </a>
   </p>
+     
   <h3>  Most Used Languages: </h3>
+  
+  
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu06d&theme=midnight-purple" />
+   <p align="right">
+      <img align="left" alt="my code" src="https://github.com/himanshu06d/himanshu06d/blob/44d5e8f037873f11acc7e5b1307213506e42a29c/resources/tenor.gif" width="600px" height"150px" />
+      </p>
       
+
+
+##  My Commit Streak:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu06d&theme=midnight-purple" /></p>
