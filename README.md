@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Fixing errors 
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate with my ideas
 - 🤔 I’m looking for help on compiling code
