@@ -42,7 +42,7 @@
   
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu06d&theme=midnight-purple" />
    <p align="right">
-      <img align="left" alt="my code" src="https://github.com/himanshu06d/himanshu06d/blob/44d5e8f037873f11acc7e5b1307213506e42a29c/resources/tenor.gif" width="600px" height"150px" />
+      <img align="left" alt="my code" src="https://github.com/himanshu06d/himanshu06d/blob/44d5e8f037873f11acc7e5b1307213506e42a29c/resources/tenor.gif" width="150px" height"150px" />
       </p>
       
 
