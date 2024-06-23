@@ -8,9 +8,6 @@
 
 
 - 🔭 I’m currently working on Fixing errors 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with my ideas
-- 🤔 I’m looking for help on compiling code
 - 💬 Ask me about the laziest way to find a solution 
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/himanshu-dubey-845536190/" > Himanshu Dubey </a >
 
